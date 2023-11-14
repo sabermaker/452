@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>菜鸟教程(runoob.com)</title>
+</head>
+<body>
+
+<h1>Website design flow chart</h1>
+<html>
+<head>
+ <style>
+ h1
+{
+ background-color:#6495ed;
+}
+</body>
+</html>
+
+
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>未命名绘图.drawio.html</title>
+<meta charset="utf-8"/>
+</head>
+<body>
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; modified=\&quot;2023-03-23T02:02:55.713Z\&quot; agent=\&quot;5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15\&quot; etag=\&quot;DgAQTgb3dIDrTFy8k81V\&quot; version=\&quot;21.0.10\&quot; type=\&quot;device\&quot;&gt;&lt;diagram id=\&quot;C5RBs43oDa-KdzZeNtuy\&quot; name=\&quot;Page-1\&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;&quot;,&quot;toolbar&quot;:&quot;pages zoom layers lightbox&quot;,&quot;page&quot;:0}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/js/viewer-static.min.js"></script>
+</body>
+</html>
