@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+ 
+  <head>
+    <link rel="stylesheet" href="mainstyle1.css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Formatting a biography</title>
+   
+  </head>
+
+ 
+  <body>
+
+ 
+    <h1>Tao(Peng Zhentao)</h1>
+    <div class="job-title">Web Developer</div>
+    <p>I have been engaged in Web development and design for nearly two years. As a professional Web developer, I have been dedicated to developing my own website for small and medium-sized enterprises. In my spare time, I often learn about Web development related technologies or content. Have been trying to improve their technical level.</p >
+
+ 
+    <p>
+    </p >
+<p>This is my picture :</p >
+ <img border="0" src="https://i.postimg.cc/QNnj5bC1/Tao.jpg" alt="Pulpit rock" width="304" height="228">
+ <table border="1">
+  <caption>My experience</caption>
+  <tr>
+    <th>Time</th>
+    <th>Experience</th>
+  </tr>
+  <tr>
+    <td>2021.9</td>
+    <td>Studied in Nngbo City Vocational and Technical College, and learned web development and design related content</td>
+  </tr>
+  <tr>
+    <td>2022.9</td>
+    <td>To become a sophomore in the university and be exposed to more advanced learning and tasks related to Web development and ICT research</td>
+  </tr>
+</table>
+ 
+    <h2>Contact information</h2>
+    <ul>
+      <li>Email:
+        2523505088@qq.com
+      </li>
+      <li>Web: http://www.cctv.com
+        
+      </li>
+      <li>Tel: 18042000488</li>
+    </ul>
+
+ 
+  </body>
+
+ 
+</html>
