@@ -1,0 +1,14 @@
+<!DOCTYPE html>  
+<html lang="zh">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Navigation bar</title>  
+</head>  
+<body>  
+    <div class="navbar">  
+        <a href="Tao.html">page-1</a> |  
+        <a href="Tao1.html">Page-2</a> |  
+        <a href="Tao2.html">Page-3</a>  
+    </div>  
+</body>  
+</html>
